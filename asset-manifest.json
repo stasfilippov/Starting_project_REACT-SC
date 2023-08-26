@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/training-sc_project/static/css/main.f8567b98.css",
+    "main.js": "/training-sc_project/static/js/main.ab48efed.js",
+    "static/js/787.262987af.chunk.js": "/training-sc_project/static/js/787.262987af.chunk.js",
+    "static/media/bg.jpg": "/training-sc_project/static/media/bg.4c2c0c922311270cffaf.jpg",
+    "index.html": "/training-sc_project/index.html",
+    "main.f8567b98.css.map": "/training-sc_project/static/css/main.f8567b98.css.map",
+    "main.ab48efed.js.map": "/training-sc_project/static/js/main.ab48efed.js.map",
+    "787.262987af.chunk.js.map": "/training-sc_project/static/js/787.262987af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8567b98.css",
+    "static/js/main.ab48efed.js"
+  ]
+}
